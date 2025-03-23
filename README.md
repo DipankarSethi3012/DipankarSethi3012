@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipankar Sethi</h1>
-<h3 align="center">Passionate Developer | DSA Enthusiast | Spring Boot & React | Building Scalable Solutions 🚀</h3>
+<h3 align="center">Passionate Developer | DSA Enthusiast | Spring Boot & React | Building Scalable Solutions | SIH Finalist | Winner IdeaHub 2.0 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankarsethi3012&label=Profile%20views&color=0e75b6&style=flat" alt="dipankarsethi3012" /> </p>
 
