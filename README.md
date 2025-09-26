@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills & Technologies
 
-I specialize in full-stack development with a focus on scalable architecture.
+I specialize in backend development with a focus on scalable architecture.
 
 <div align="center">
   <p>
