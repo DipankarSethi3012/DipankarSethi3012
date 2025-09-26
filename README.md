@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzJrwpXScW4J/giphy.gif" width="30"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpxbWpnM3hpMG1sOHdrb3FpcHhhMmxzNnI1eXBqcG9mZWNqbmQ5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KGhpQ5NMoWKQurlHwI/giphy.webp" width="30"/>
   <h1>Hi 👋, I'm Dipankar Sethi</h1>
   <h3>Passionate Developer | DSA Enthusiast | Building Scalable Solutions</h3>
   <p>SIH Finalist | Winner IdeaHub 2.0 🚀</p>
